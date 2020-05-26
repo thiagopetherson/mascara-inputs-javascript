@@ -1,4 +1,4 @@
-# formatador-inputs-js
+# formatador-inputs-javascript
 Criando uma função para formatar seus input type text enquanto você digita.
 
 Essa função vai formatando o campo enquanto você digita através do evento (keypress). 
