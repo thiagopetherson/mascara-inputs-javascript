@@ -2,7 +2,7 @@
 Criando uma função para formatar seus input type text enquanto você digita.
 
 Essa função vai formatando o campo enquanto você digita através do evento (keypress). 
-Serve para CPF, CNPJ, CEP, entre outros. Você pode até criar sua própria regra de formatação conforme sua necessidade. 
+Serve para CPF, CNPJ, CEP, entre outros. Você pode até criar sua própria regra de formatação conforme sua necessidade (O "Inscrição Estadual", por exemplo, eu criei e adaptei a minha necessidade. Pois a "Inscrição Estadual" varia conforme a UF). 
  
 Usei JavaScript com um mínimo de jQuery. O jQuery pode ser substituído facilmente por JS Vanilla se você quiser.
  
