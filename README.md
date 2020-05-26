@@ -8,4 +8,4 @@ Usei JavaScript com um mínimo de jQuery. O jQuery pode ser substituído facilme
  
 OBS: Lembro que peguei esse código de alguma fonte na internet, porém não me recordo onde. Assim que eu lembrar (ou achar) eu coloco a devida referência aqui. 
  
- #Bom uso e que a força com vocês!
+ #Bom uso e que a força esteja com vocês!
